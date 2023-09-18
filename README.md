@@ -1,2 +1,2 @@
-# CNN-project1
-First Convolutional Neural Network Project – Fashion MNIST Classification
+##CNN-project
+Convolutional Neural Network Project – Fashion MNIST Classification
